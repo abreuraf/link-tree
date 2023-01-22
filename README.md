@@ -1,2 +1,5 @@
 # link-tree
-A simple project to create a single page with a list of personal links. 
+
+This project is looks like a link tree for personal links for others pages services.
+
+Take a look at [abreu.com](https://abreu.com)
